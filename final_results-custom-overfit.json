@@ -1,0 +1,13 @@
+{
+    "CustomCNN": {
+        "accuracy": 0.9642857142857143,
+        "precision": 0.9660890852067321,
+        "recall": 0.9642857142857143,
+        "f1_score": 0.9641121108300692,
+        "best_params": {
+            "batch_size": 64,
+            "learning_rate": 0.01,
+            "optimizer": "SGD"
+        }
+    }
+}
